@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584201652608",
+    "project_id": "deliveries-hadera--area",
+    "storage_bucket": "deliveries-hadera--area.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584201652608:android:6eb7e7c5a83d7acda61965",
+        "android_client_info": {
+          "package_name": "com.yahav.deliverycustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqlGP78rtKdE5zvqhBVCebw6lcmCTa9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
