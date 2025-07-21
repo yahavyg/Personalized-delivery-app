@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+color teal_200
+color teal_700
+drawable logo
+layout activity_login
+layout activity_main
+layout activity_new_order
+layout activity_order_history
+layout activity_register
+mipmap ic_launcher
+string app_name
+string btn_submit
+string login_title
+style Theme.App

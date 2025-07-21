@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/layout_activity_order_history.xml.flat",
+        "source": "com.yahav.deliveryapp-main-6:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/layout_activity_login.xml.flat",
+        "source": "com.yahav.deliveryapp-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.yahav.deliveryapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/drawable_logo.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/drawable/logo.png"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/layout_activity_new_order.xml.flat",
+        "source": "com.yahav.deliveryapp-main-6:/layout/activity_new_order.xml"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/layout_activity_register.xml.flat",
+        "source": "com.yahav.deliveryapp-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.yahav.deliveryapp-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.yahav.deliveryapp-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
